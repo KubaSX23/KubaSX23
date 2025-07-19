@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jacob and I'm from Poland</h2>
+<h2 align="left">Im just KubaS</h2>
 
 ###
 
