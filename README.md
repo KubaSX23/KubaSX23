@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.fastly.steamstatic.com/1b6cdc4a5cc4ba4518eefa6eae99132fa9c5b048_full.jpg"  />
+<img height="150" src="https://avatars.fastly.steamstatic.com/1b6cdc4a5cc4ba4518eefa6eae99132fa9c5b048_full.jpg"  />
 
 ###
 
